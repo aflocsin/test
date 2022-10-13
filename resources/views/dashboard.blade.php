@@ -3,9 +3,10 @@
 <head>
     <title>To Do</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 </head>
 <body>
-    <nav class="navbar navbar-light navbar-expand-lg mb-5" style="background-color: #e3f2fd;">
+    <nav class="navbar navbar-light navbar-expand-lg mb-5" style="background-color: #fff3cd;">
         <div class="container">
             <a class="navbar-brand mr-auto" href="#">To Do</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
